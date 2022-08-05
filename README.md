@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tera-code" alt="tera-code" /></a> </p>
 
-- 🔭 I’m currently working on **a building a multi class text classification as a service to support procurement**
+- 🔭 I’m currently working on **a building a multi class text classification model as a service to support procurement in Engineering companies**
 
 - 🌱 I’m currently learning **React and Django**
 
